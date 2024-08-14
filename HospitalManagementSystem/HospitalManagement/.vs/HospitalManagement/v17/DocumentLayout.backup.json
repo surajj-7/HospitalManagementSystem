@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HospitalManagementSystem\\HospitalManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0490C54C-D9FA-4532-AD3F-43EDA7ACA97F}|HospitalManagement.csproj|d:\\hospitalmanagementsystem\\hospitalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0490C54C-D9FA-4532-AD3F-43EDA7ACA97F}|HospitalManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0490C54C-D9FA-4532-AD3F-43EDA7ACA97F}|HospitalManagement.csproj|d:\\hospitalmanagementsystem\\hospitalmanagement\\hospitalmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0490C54C-D9FA-4532-AD3F-43EDA7ACA97F}|HospitalManagement.csproj|solutionrelative:hospitalmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857D7507-7F85-4E31-A9FF-80C5CB7C73B3}|..\\Hospital.Repositories\\Hospital.Repositories.csproj|d:\\hospitalmanagementsystem\\hospital.repositories\\hospital.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0490C54C-D9FA-4532-AD3F-43EDA7ACA97F}|HospitalManagement.csproj|d:\\hospitalmanagementsystem\\hospitalmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0490C54C-D9FA-4532-AD3F-43EDA7ACA97F}|HospitalManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857D7507-7F85-4E31-A9FF-80C5CB7C73B3}|..\\Hospital.Repositories\\Hospital.Repositories.csproj|d:\\hospitalmanagementsystem\\hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C37D19-61E0-40A2-ACE5-46F61486E40C}|..\\Hospital.Utilities\\Hospital.Utilities.csproj|d:\\hospitalmanagementsystem\\hospital.utilities\\hospital.utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HospitalManagementSystem\\HospitalManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HospitalManagementSystem\\HospitalManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:48:03.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HospitalManagementSystem\\HospitalManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\HospitalManagementSystem\\HospitalManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T18:45:39.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Hospital.Utilities",
+              "DocumentMoniker": "D:\\HospitalManagementSystem\\Hospital.Utilities\\Hospital.Utilities.csproj",
+              "RelativeDocumentMoniker": "..\\Hospital.Utilities\\Hospital.Utilities.csproj",
+              "ToolTip": "D:\\HospitalManagementSystem\\Hospital.Utilities\\Hospital.Utilities.csproj",
+              "RelativeToolTip": "..\\Hospital.Utilities\\Hospital.Utilities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T18:41:54.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalManagement",
+              "DocumentMoniker": "D:\\HospitalManagementSystem\\HospitalManagement\\HospitalManagement.csproj",
+              "RelativeDocumentMoniker": "HospitalManagement.csproj",
+              "ToolTip": "D:\\HospitalManagementSystem\\HospitalManagement\\HospitalManagement.csproj",
+              "RelativeToolTip": "HospitalManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T18:41:02.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hospital.Repositories",
+              "DocumentMoniker": "D:\\HospitalManagementSystem\\Hospital.Repositories\\Hospital.Repositories.csproj",
+              "RelativeDocumentMoniker": "..\\Hospital.Repositories\\Hospital.Repositories.csproj",
+              "ToolTip": "D:\\HospitalManagementSystem\\Hospital.Repositories\\Hospital.Repositories.csproj",
+              "RelativeToolTip": "..\\Hospital.Repositories\\Hospital.Repositories.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T18:40:25.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\HospitalManagementSystem\\Hospital.Repositories\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Hospital.Repositories\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\HospitalManagementSystem\\Hospital.Repositories\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Hospital.Repositories\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T18:35:08.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
